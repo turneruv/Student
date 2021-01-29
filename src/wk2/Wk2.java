@@ -17,7 +17,7 @@ public class Wk2 {
     public static void main(String[] args) {
         // TODO code application logic here
     int [] studentMarks = new int[5];
-char [] sname= new char[5];
+char [] sname= new char[6];
 studentMarks[0]=98;
 studentMarks[1]=98;
 studentMarks[2]=98;
